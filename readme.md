@@ -38,8 +38,8 @@ ML | Low
 
 - [x] Python
 - [x] C++
-- [] HTML + CSS
-- [] Javascript
+- [ ] HTML + CSS
+- [ ] Javascript
 
 ## Git Commands Screenshot
 ![Image](/image.png)
