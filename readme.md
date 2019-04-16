@@ -42,4 +42,4 @@ ML | Low
 - [] Javascript
 
 ## Git Commands Screenshot
-![Image](/screenshot.jpg)
+![Image](/image.png)
